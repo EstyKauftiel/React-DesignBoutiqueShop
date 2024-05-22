@@ -165,7 +165,7 @@
 
 .btn-btn{
   margin-top: 30px;
-
+  
 }
 
 .header{
@@ -229,3 +229,6 @@
   height: 30px;
   width: 30px;
  }
+.card-text{
+  font-size: large;
+}
